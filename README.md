@@ -56,7 +56,6 @@ stdbuf -o0 bash ./Snake.nocomments.sh
 
 ```bash
 wget https://haste-by-trkn.replit.app/raw/tavitaxozehi
-or
 stdbuf -o0 bash ./tavitaxozehi
 ```
 
